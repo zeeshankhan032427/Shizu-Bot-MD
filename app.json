@@ -1,8 +1,8 @@
 {
-  "name": "Shizu-Bot-MD",
+  "name": "𝐙𝐄𝐄𝐒𝐇𝐀𝐍-Bot-MD",
   "description": "Sigueme en Instagram: @shizu.bot (≧▽≦)",
-  "repository": "https://github.com/Shizu-Hub/Shizu-Bot-MD",
-  "logo": "https://raw.githubusercontent.com/Shizu-Hub/Shizu-Bot/master/Menu2.jpg",
+  "repository": "https://github.com/𝐙𝐄𝐄𝐒𝐇𝐀𝐍-Hub/𝐙𝐄𝐄𝐒𝐇𝐀𝐍-Bot-MD",
+  "logo": "https://raw.githubusercontent.com/𝐙𝐄𝐄𝐒𝐇𝐀𝐍-Hub/𝐙𝐄𝐄𝐒𝐇𝐀𝐍-Bot/master/Menu2.jpg",
   "keywords": ["java", "bot", "whatsapp-bot", "whatsapp-automation"],
   "buildpacks": [
   {
